@@ -1,0 +1,194 @@
+{
+  "destination": "Goa",
+  "days": 2,
+  "interests": "beach food",
+  "attractions": [
+    {
+      "name": "Calangute Beach",
+      "lat": 15.5443,
+      "description": "Popular tourist beach with water sports and a lively market.",
+      "lon": 73.7553
+    },
+    {
+      "name": "Baga Beach",
+      "lat": 15.5465,
+      "description": "Known for nightlife, shacks and vibrant atmosphere.",
+      "lon": 73.748
+    },
+    {
+      "name": "Fort Aguada",
+      "lat": 15.493,
+      "description": "17th-century Portuguese fort with panoramic sea views.",
+      "lon": 73.7638
+    },
+    {
+      "name": "Basilica of Bom Jesus",
+      "lat": 15.5889,
+      "description": "UNESCO World Heritage site housing relics of St. Francis Xavier.",
+      "lon": 73.8576
+    }
+  ],
+  "food_places": [
+    {
+      "name": "Thalassa",
+      "cuisine": "Mediterranean",
+      "rating": 4.6,
+      "lat": 15.538,
+      "description": "Sunset views and Greek-inspired cuisine.",
+      "lon": 73.747
+    },
+    {
+      "name": "Martin's Corner",
+      "cuisine": "Seafood",
+      "rating": 4.4,
+      "lat": 15.487,
+      "description": "Popular seafood restaurant beloved by locals and tourists.",
+      "lon": 73.815
+    }
+  ],
+  "weather": {
+    "temperature_c": "27",
+    "condition": "Rainy"
+  },
+  "budget_estimate": {
+    "hotel": 5000,
+    "food": 1600,
+    "transport": 1000,
+    "activities": 1000,
+    "total": 8600
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "slot": "Morning",
+      "time": "2026-04-13 22:02",
+      "name": "Calangute Beach",
+      "lat": 15.5443,
+      "lon": 73.7553,
+      "notes": "Popular tourist beach with water sports and a lively market.",
+      "expected_cost": 0
+    },
+    {
+      "day": 1,
+      "slot": "Afternoon",
+      "time": "2026-04-14 01:02",
+      "name": "Baga Beach",
+      "lat": 15.5465,
+      "lon": 73.748,
+      "notes": "Known for nightlife, shacks and vibrant atmosphere.",
+      "expected_cost": 0
+    },
+    {
+      "day": 2,
+      "slot": "Morning",
+      "time": "2026-04-14 22:02",
+      "name": "Fort Aguada",
+      "lat": 15.493,
+      "lon": 73.7638,
+      "notes": "17th-century Portuguese fort with panoramic sea views.",
+      "expected_cost": 0
+    },
+    {
+      "day": 2,
+      "slot": "Afternoon",
+      "time": "2026-04-15 01:02",
+      "name": "Basilica of Bom Jesus",
+      "lat": 15.5889,
+      "lon": 73.8576,
+      "notes": "UNESCO World Heritage site housing relics of St. Francis Xavier.",
+      "expected_cost": 0
+    },
+    {
+      "day": 2,
+      "slot": "Evening Meal",
+      "time": "2026-04-15 07:02",
+      "name": "Thalassa",
+      "lat": 15.538,
+      "lon": 73.747,
+      "notes": "Sunset views and Greek-inspired cuisine.",
+      "expected_cost": 15
+    }
+  ],
+  "planner": {
+    "itinerary": [
+      {
+        "day": 1,
+        "slot": "Morning",
+        "time": "2026-04-13 22:02",
+        "name": "Calangute Beach",
+        "lat": 15.5443,
+        "lon": 73.7553,
+        "notes": "Popular tourist beach with water sports and a lively market.",
+        "expected_cost": 0
+      },
+      {
+        "day": 1,
+        "slot": "Afternoon",
+        "time": "2026-04-14 01:02",
+        "name": "Baga Beach",
+        "lat": 15.5465,
+        "lon": 73.748,
+        "notes": "Known for nightlife, shacks and vibrant atmosphere.",
+        "expected_cost": 0
+      },
+      {
+        "day": 2,
+        "slot": "Morning",
+        "time": "2026-04-14 22:02",
+        "name": "Fort Aguada",
+        "lat": 15.493,
+        "lon": 73.7638,
+        "notes": "17th-century Portuguese fort with panoramic sea views.",
+        "expected_cost": 0
+      },
+      {
+        "day": 2,
+        "slot": "Afternoon",
+        "time": "2026-04-15 01:02",
+        "name": "Basilica of Bom Jesus",
+        "lat": 15.5889,
+        "lon": 73.8576,
+        "notes": "UNESCO World Heritage site housing relics of St. Francis Xavier.",
+        "expected_cost": 0
+      },
+      {
+        "day": 2,
+        "slot": "Evening Meal",
+        "time": "2026-04-15 07:02",
+        "name": "Thalassa",
+        "lat": 15.538,
+        "lon": 73.747,
+        "notes": "Sunset views and Greek-inspired cuisine.",
+        "expected_cost": 15
+      }
+    ],
+    "total_estimated": 15,
+    "budget_ok": true
+  },
+  "route": {
+    "legs_by_day": {
+      "1": [
+        {
+          "from": "Calangute Beach",
+          "to": "Baga Beach",
+          "distance_km": 0.82,
+          "travel_time_minutes": 2
+        }
+      ],
+      "2": [
+        {
+          "from": "Fort Aguada",
+          "to": "Basilica of Bom Jesus",
+          "distance_km": 14.65,
+          "travel_time_minutes": 29
+        },
+        {
+          "from": "Basilica of Bom Jesus",
+          "to": "Thalassa",
+          "distance_km": 13.13,
+          "travel_time_minutes": 26
+        }
+      ]
+    }
+  }
+}

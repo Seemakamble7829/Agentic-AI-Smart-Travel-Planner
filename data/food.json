@@ -1,0 +1,114 @@
+{
+  "Goa": [
+    {
+      "name": "Thalassa",
+      "cuisine": "Mediterranean",
+      "rating": 4.6,
+      "lat": 15.538,
+      "description": "Sunset views and Greek-inspired cuisine.",
+      "lon": 73.747
+    },
+    {
+      "name": "Martin's Corner",
+      "cuisine": "Seafood",
+      "rating": 4.4,
+      "lat": 15.487,
+      "description": "Popular seafood restaurant beloved by locals and tourists.",
+      "lon": 73.815
+    }
+  ],
+  "Mysore": [
+    {
+      "name": "RRR Restaurant",
+      "cuisine": "South Indian",
+      "rating": 4.2,
+      "lat": 12.308,
+      "description": "Famous for hearty Andhra meals.",
+      "lon": 76.655
+    },
+    {
+      "name": "Mylari Hotel",
+      "cuisine": "South Indian",
+      "rating": 4.0,
+      "lat": 12.3058,
+      "description": "Known for its soft dosas and local breakfast.",
+      "lon": 76.653
+    }
+  ],
+  "Bangalore": [
+    {
+      "name": "Vidyarthi Bhavan",
+      "cuisine": "South Indian",
+      "rating": 4.3,
+      "lat": 12.9611,
+      "description": "Historic eatery famous for masala dosa.",
+      "lon": 77.5736
+    },
+    {
+      "name": "Toit Brewery",
+      "cuisine": "Brewpub",
+      "rating": 4.4,
+      "lat": 12.975,
+      "description": "Popular microbrewery with a lively atmosphere.",
+      "lon": 77.5969
+    }
+  ],
+  "Delhi": [
+    {
+      "name": "Karim's",
+      "cuisine": "Mughlai",
+      "rating": 4.1,
+      "lat": 28.65,
+      "description": "Legendary spot for rich kebabs and curries.",
+      "lon": 77.23
+    },
+    {
+      "name": "Paranthe Wali Gali",
+      "cuisine": "Street Food",
+      "rating": 4.0,
+      "lat": 28.6565,
+      "description": "Historic lane known for stuffed parathas.",
+      "lon": 77.2309
+    }
+  ],
+  "Mumbai": [
+    {
+      "name": "Leopold Cafe",
+      "cuisine": "Multi-cuisine",
+      "rating": 4.0,
+      "lat": 18.9217,
+      "description": "Iconic cafe in Colaba.",
+      "lon": 72.8331
+    }
+  ],
+  "Jaipur": [
+    {
+      "name": "Laxmi Misthan Bhandar",
+      "cuisine": "Rajasthani",
+      "rating": 4.2,
+      "lat": 26.9225,
+      "description": "Traditional sweets and Rajasthani thali.",
+      "lon": 75.8265
+    }
+  ],
+  "Kochi": [
+    {
+      "name": "Kashi Art Cafe",
+      "cuisine": "Cafe",
+      "rating": 4.3,
+      "lat": 9.9674,
+      "description": "Beachside cafe with artsy vibe.",
+      "lon": 76.2416
+    }
+  ],
+  "Pondicherry": [
+    {
+      "name": "Baker Street",
+      "cuisine": "Cafe",
+      "rating": 4.2,
+      "lat": 11.9279,
+      "description": "French-style bakery and cafe in the French Quarter.",
+      "lon": 79.825
+    }
+  ]
+}

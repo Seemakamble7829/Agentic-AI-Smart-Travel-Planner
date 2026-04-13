@@ -1,0 +1,132 @@
+{
+  "Goa": [
+    {
+      "name": "Calangute Beach",
+      "lat": 15.5443,
+      "description": "Popular tourist beach with water sports and a lively market.",
+      "lon": 73.7553
+    },
+    {
+      "name": "Baga Beach",
+      "lat": 15.5465,
+      "description": "Known for nightlife, shacks and vibrant atmosphere.",
+      "lon": 73.748
+    },
+    {
+      "name": "Fort Aguada",
+      "lat": 15.493,
+      "description": "17th-century Portuguese fort with panoramic sea views.",
+      "lon": 73.7638
+    },
+    {
+      "name": "Basilica of Bom Jesus",
+      "lat": 15.5889,
+      "description": "UNESCO World Heritage site housing relics of St. Francis Xavier.",
+      "lon": 73.8576
+    }
+  ],
+  "Mysore": [
+    {
+      "name": "Mysore Palace",
+      "lat": 12.3051,
+      "description": "Lavish historical palace and the city's top attraction.",
+      "lon": 76.6551
+    },
+    {
+      "name": "Chamundi Hills",
+      "lat": 12.3054,
+      "description": "Hilltop temple complex with panoramic views of Mysore.",
+      "lon": 76.7135
+    },
+    {
+      "name": "Brindavan Gardens",
+      "lat": 12.4254,
+      "description": "Famous terraced gardens known for musical fountains.",
+      "lon": 76.455
+    }
+  ],
+  "Bangalore": [
+    {
+      "name": "Lalbagh Botanical Garden",
+      "lat": 12.9507,
+      "description": "Historic botanical garden with glasshouse and diverse flora.",
+      "lon": 77.5848
+    },
+    {
+      "name": "Bangalore Palace",
+      "lat": 12.9982,
+      "description": "Palace inspired by Windsor Castle with ornate interiors.",
+      "lon": 77.5926
+    },
+    {
+      "name": "Cubbon Park",
+      "lat": 12.9779,
+      "description": "Large green park in the heart of the city, ideal for walks.",
+      "lon": 77.5907
+    }
+  ],
+  "Delhi": [
+    {
+      "name": "Red Fort",
+      "lat": 28.6562,
+      "description": "Iconic Mughal fort and UNESCO World Heritage site.",
+      "lon": 77.241
+    },
+    {
+      "name": "Qutub Minar",
+      "lat": 28.5244,
+      "description": "Tall minaret built in the 12th century with intricate carvings.",
+      "lon": 77.1855
+    },
+    {
+      "name": "India Gate",
+      "lat": 28.6129,
+      "description": "War memorial and popular open-area landmark.",
+      "lon": 77.2295
+    }
+  ],
+  "Mumbai": [
+    {
+      "name": "Gateway of India",
+      "lat": 18.922,
+      "description": "Monument built during the 20th century overlooking the harbor.",
+      "lon": 72.8347
+    },
+    {
+      "name": "Marine Drive",
+      "lat": 18.943,
+      "description": "Scenic promenade along the coast, great for sunsets.",
+      "lon": 72.8238
+    }
+  ],
+  "Jaipur": [
+    {
+      "name": "Amber Fort",
+      "lat": 26.9855,
+      "description": "Hilltop fort with beautiful palaces and mirrored halls.",
+      "lon": 75.8513
+    },
+    {
+      "name": "Hawa Mahal",
+      "lat": 26.9239,
+      "description": "Iconic pink sandstone palace with latticed windows.",
+      "lon": 75.8267
+    }
+  ],
+  "Kochi": [
+    {
+      "name": "Fort Kochi",
+      "lat": 9.9667,
+      "description": "Historic neighborhood with colonial architecture and cafes.",
+      "lon": 76.24
+    }
+  ],
+  "Pondicherry": [
+    {
+      "name": "Promenade Beach",
+      "lat": 11.934,
+      "description": "Coastal promenade with French Quarter nearby.",
+      "lon": 79.8294
+    }
+  ]
+}

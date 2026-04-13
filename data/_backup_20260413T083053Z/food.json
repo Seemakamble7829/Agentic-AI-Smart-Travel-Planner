@@ -1,0 +1,30 @@
+{
+  "Goa": [
+    {"name": "Thalassa", "cuisine": "Mediterranean", "rating": 4.6, "lat": 15.5380, "lng": 73.7470, "description": "Sunset views and Greek-inspired cuisine."},
+    {"name": "Martin's Corner", "cuisine": "Seafood", "rating": 4.4, "lat": 15.4870, "lng": 73.8150, "description": "Popular seafood restaurant beloved by locals and tourists."}
+  ],
+  "Mysore": [
+    {"name": "RRR Restaurant", "cuisine": "South Indian", "rating": 4.2, "lat": 12.3080, "lng": 76.6550, "description": "Famous for hearty Andhra meals."},
+    {"name": "Mylari Hotel", "cuisine": "South Indian", "rating": 4.0, "lat": 12.3058, "lng": 76.6530, "description": "Known for its soft dosas and local breakfast."}
+  ],
+  "Bangalore": [
+    {"name": "Vidyarthi Bhavan", "cuisine": "South Indian", "rating": 4.3, "lat": 12.9611, "lng": 77.5736, "description": "Historic eatery famous for masala dosa."},
+    {"name": "Toit Brewery", "cuisine": "Brewpub", "rating": 4.4, "lat": 12.9750, "lng": 77.5969, "description": "Popular microbrewery with a lively atmosphere."}
+  ],
+  "Delhi": [
+    {"name": "Karim's", "cuisine": "Mughlai", "rating": 4.1, "lat": 28.6500, "lng": 77.2300, "description": "Legendary spot for rich kebabs and curries."},
+    {"name": "Paranthe Wali Gali", "cuisine": "Street Food", "rating": 4.0, "lat": 28.6565, "lng": 77.2309, "description": "Historic lane known for stuffed parathas."}
+  ],
+  "Mumbai": [
+    {"name": "Leopold Cafe", "cuisine": "Multi-cuisine", "rating": 4.0, "lat": 18.9217, "lng": 72.8331, "description": "Iconic cafe in Colaba."}
+  ],
+  "Jaipur": [
+    {"name": "Laxmi Misthan Bhandar", "cuisine": "Rajasthani", "rating": 4.2, "lat": 26.9225, "lng": 75.8265, "description": "Traditional sweets and Rajasthani thali."}
+  ],
+  "Kochi": [
+    {"name": "Kashi Art Cafe", "cuisine": "Cafe", "rating": 4.3, "lat": 9.9674, "lng": 76.2416, "description": "Beachside cafe with artsy vibe."}
+  ],
+  "Pondicherry": [
+    {"name": "Baker Street", "cuisine": "Cafe", "rating": 4.2, "lat": 11.9279, "lng": 79.8250, "description": "French-style bakery and cafe in the French Quarter."}
+  ]
+}

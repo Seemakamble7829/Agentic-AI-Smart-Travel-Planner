@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9fe9e1b6af281d0a56a6c5fd6df7f028 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9fe9e1b6af281d0a56a6c5fd6df7f028" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9fe9e1b6af281d0a56a6c5fd6df7f028 = L.map(
+                "map_9fe9e1b6af281d0a56a6c5fd6df7f028",
+                {
+                    center: [15.5443, 73.7553],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_6752f55017bf8da2a1b0547a9a36f263 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_6752f55017bf8da2a1b0547a9a36f263.addTo(map_9fe9e1b6af281d0a56a6c5fd6df7f028);
+        
+    
+            var marker_d3d3b9b4aa3840c28635e1f27cd6e6bd = L.marker(
+                [15.5443, 73.7553],
+                {
+}
+            ).addTo(map_9fe9e1b6af281d0a56a6c5fd6df7f028);
+        
+    
+        var popup_2a8cf4ec2710563899b5c7ead25039f7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_74d3c08a3228de2d605b4d0c1e4fb3a2 = $(`<div id="html_74d3c08a3228de2d605b4d0c1e4fb3a2" style="width: 100.0%; height: 100.0%;"><b>Calangute Beach</b><br>Popular tourist beach with water sports and a lively market.</div>`)[0];
+                popup_2a8cf4ec2710563899b5c7ead25039f7.setContent(html_74d3c08a3228de2d605b4d0c1e4fb3a2);
+            
+        
+
+        marker_d3d3b9b4aa3840c28635e1f27cd6e6bd.bindPopup(popup_2a8cf4ec2710563899b5c7ead25039f7)
+        ;
+
+        
+    
+    
+            var marker_d60252d2da9366ba8ddea2c90c2b9516 = L.marker(
+                [15.5465, 73.748],
+                {
+}
+            ).addTo(map_9fe9e1b6af281d0a56a6c5fd6df7f028);
+        
+    
+        var popup_e938baf68ea996b83d44d2eae48afadf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6a27c62e49270052112bfc28344f5212 = $(`<div id="html_6a27c62e49270052112bfc28344f5212" style="width: 100.0%; height: 100.0%;"><b>Baga Beach</b><br>Known for nightlife, shacks and vibrant atmosphere.</div>`)[0];
+                popup_e938baf68ea996b83d44d2eae48afadf.setContent(html_6a27c62e49270052112bfc28344f5212);
+            
+        
+
+        marker_d60252d2da9366ba8ddea2c90c2b9516.bindPopup(popup_e938baf68ea996b83d44d2eae48afadf)
+        ;
+
+        
+    
+    
+            var marker_e520ac7a53356f717a58768aba0d3c84 = L.marker(
+                [15.493, 73.7638],
+                {
+}
+            ).addTo(map_9fe9e1b6af281d0a56a6c5fd6df7f028);
+        
+    
+        var popup_ac1961b90e82cda9f5d23117cf794458 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_815a003a887bf48ab33a9c8d16b3e58b = $(`<div id="html_815a003a887bf48ab33a9c8d16b3e58b" style="width: 100.0%; height: 100.0%;"><b>Fort Aguada</b><br>17th-century Portuguese fort with panoramic sea views.</div>`)[0];
+                popup_ac1961b90e82cda9f5d23117cf794458.setContent(html_815a003a887bf48ab33a9c8d16b3e58b);
+            
+        
+
+        marker_e520ac7a53356f717a58768aba0d3c84.bindPopup(popup_ac1961b90e82cda9f5d23117cf794458)
+        ;
+
+        
+    
+    
+            var marker_105922dc582623e2b6b712e3388b51c6 = L.marker(
+                [15.5889, 73.8576],
+                {
+}
+            ).addTo(map_9fe9e1b6af281d0a56a6c5fd6df7f028);
+        
+    
+        var popup_057b39f0db024cfc6e87bce6723aa52a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3fa4799fbd21761ccc66b758115ef32b = $(`<div id="html_3fa4799fbd21761ccc66b758115ef32b" style="width: 100.0%; height: 100.0%;"><b>Basilica of Bom Jesus</b><br>UNESCO World Heritage site housing relics of St. Francis Xavier.</div>`)[0];
+                popup_057b39f0db024cfc6e87bce6723aa52a.setContent(html_3fa4799fbd21761ccc66b758115ef32b);
+            
+        
+
+        marker_105922dc582623e2b6b712e3388b51c6.bindPopup(popup_057b39f0db024cfc6e87bce6723aa52a)
+        ;
+
+        
+    
+</script>
+</html>
