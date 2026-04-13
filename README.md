@@ -123,9 +123,40 @@ Example output (demo):
 - Itinerary: Day-by-day plan with visits and lunch suggestions
 - Estimated Budget: ₹4500 (sample)
 
-## Screenshots
+## 📸 Project Screenshots
 
-_Add screenshots here after you run the app. A good README includes 2-3 images showing the UI._
+Below are curated screenshots showing the main UX surfaces of the app.
+
+### 1. User Interface — 🖥️
+Clear, conversational UI for entering trip preferences and generating a plan.
+
+![User Interface](assets/ui.png)
+*Figure: Main Streamlit interface with chat input, form controls and result cards.*
+
+---
+
+### 2. Map Visualization — 🗺️
+Interactive Folium map showing selected attractions and per-day route polylines.
+
+![Map Visualization](assets/map.png)
+*Figure: Map view with itinerary markers and day-by-day route polylines.*
+
+---
+
+### 3. Budget Breakdown — 💸
+AI-driven budget evaluation and visual breakdown with alerts for over-budget scenarios.
+
+![Budget Breakdown](assets/budget.png)
+*Figure: Detailed budget card with itemized costs and a bar chart for quick comparison.*
+
+---
+
+### 4. Travel Itinerary — 🧭
+Day-by-day, time-slotted itinerary with notes, expected costs and restaurant suggestions.
+
+![Travel Itinerary](assets/itinerary.png)
+*Figure: Generated multi-day itinerary with time slots and planner reasoning.*
+
 
 ## Future improvements
 
